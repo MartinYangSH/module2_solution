@@ -39,12 +39,13 @@ section {
   padding: 4px 20px 4px 20px;
   margin: 0;
   background-color: grey;
-  position: relative;
+  position:relative;
   top: 0;
   left: 0;
 }
 p {
   color:yellow;
+  clear: right;
 }
 
 /********** Large devices only **********/
